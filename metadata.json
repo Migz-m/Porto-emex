@@ -1,0 +1,6 @@
+{
+  "name": "Anniversary Website",
+  "description": "A beautiful and romantic anniversary celebration website featuring a customizable countdown timer, interactive love letter, memory timeline, floating hearts, and a themed photo gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
